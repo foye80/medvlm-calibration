@@ -1,5 +1,7 @@
 # Medical VLM Confidence Reliability
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20807947.svg)](https://doi.org/10.5281/zenodo.20807947)
+
 This repository contains the public code and derived artifacts for the study:
 
 **Fine-Tuning Improves but Does Not Guarantee Confidence Reliability in Medical Vision-Language Models**
@@ -98,5 +100,9 @@ questions, answer text, images, or full dataset mirrors.
 
 ## Citation
 
-Please cite the manuscript when it becomes available. Until then, cite this
-repository as the code and derived-results release for the above study.
+Please cite the archived code and derived-results release:
+
+DOI: [10.5281/zenodo.20807947](https://doi.org/10.5281/zenodo.20807947)
+
+When the manuscript becomes available, please cite the manuscript alongside this
+archived release.

@@ -11,4 +11,5 @@ authors:
   - family-names: Liang
     given-names: Hao
 date-released: "2026-06-23"
+doi: "10.5281/zenodo.20807947"
 repository-code: "https://github.com/foye80/medvlm-calibration"
