@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.hf_cache/
+.run_locks/
+logs/
+adapters/
+data/*/images/
+data/vqa_items.csv
+data/omnimedvqa_items.csv
+results/phase4_*.csv
+results/phase4_*.json
+results/phase5_*.csv
+results/rq5_*_test.csv
+*.log

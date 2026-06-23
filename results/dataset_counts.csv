@@ -1,0 +1,12 @@
+dataset,raw_count,kept_count,dropped_count,split,split_count,drop_reasons
+vqa_rad,2244,1191,1053,calib,115,"{""not_yes_no"": 1053}"
+vqa_rad,2244,1191,1053,test,122,"{""not_yes_no"": 1053}"
+vqa_rad,2244,1191,1053,train,954,"{""not_yes_no"": 1053}"
+slake_en,14028,2394,11634,calib,233,"{""non_english"": 6995, ""not_yes_no"": 4639}"
+slake_en,14028,2394,11634,test,357,"{""non_english"": 6995, ""not_yes_no"": 4639}"
+slake_en,14028,2394,11634,train,1804,"{""non_english"": 6995, ""not_yes_no"": 4639}"
+pathvqa,32632,16238,16394,calib,1646,"{""not_yes_no"": 16394}"
+pathvqa,32632,16238,16394,test,2060,"{""not_yes_no"": 16394}"
+pathvqa,32632,16238,16394,train,12532,"{""not_yes_no"": 16394}"
+pmc_vqa,85430,85420,10,test,85420,"{""invalid_multiple_choice"": 10}"
+omnimedvqa,88996,88996,0,test,88996,{}

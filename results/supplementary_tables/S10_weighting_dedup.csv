@@ -1,0 +1,17 @@
+condition_group,metric,n_cells,macro_mean,sample_weighted_mean,resolved_checkpoint_macro_mean,n_resolved_checkpoints
+zero_shot,accuracy,18,0.664582,0.635093,0.664582,6
+zero_shot,ece,18,0.179389,0.190510,0.179389,6
+zero_shot,nll,18,0.925041,1.022598,0.925041,6
+zero_shot,aurc,18,0.209425,0.270438,0.209425,6
+fine_tuned_id,accuracy,18,0.776232,0.782920,0.776232,6
+fine_tuned_id,ece,18,0.131905,0.115794,0.131905,6
+fine_tuned_id,nll,18,0.659584,0.564296,0.659584,6
+fine_tuned_id,aurc,18,0.137769,0.120658,0.137769,6
+fine_tuned_cross_dataset,accuracy,36,0.612218,0.605947,0.612218,6
+fine_tuned_cross_dataset,ece,36,0.247185,0.215388,0.247185,6
+fine_tuned_cross_dataset,nll,36,1.111515,0.999800,1.111515,6
+fine_tuned_cross_dataset,aurc,36,0.323533,0.328629,0.323533,6
+all_cells,accuracy,72,0.666312,0.657477,0.666312,6
+all_cells,ece,72,0.201416,0.184270,0.201416,6
+all_cells,nll,72,0.951914,0.896623,0.951914,6
+all_cells,aurc,72,0.248565,0.262088,0.248565,6

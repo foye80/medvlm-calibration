@@ -1,0 +1,7 @@
+model,configured_hf_id,resolved_hf_id,family_configured,family_runtime,model_type_configured,model_type_runtime,size,gated,lora_target_modules
+qwen25vl,Qwen/Qwen2.5-VL-7B-Instruct,Qwen/Qwen2.5-VL-7B-Instruct,qwen_vl,qwen_vl,general,general,7B,False,"q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj"
+internvl,OpenGVLab/InternVL2_5-8B,OpenGVLab/InternVL2_5-8B,internvl,internvl,general,general,8B,False,"wqkv, wo, w1, w2, w3"
+llavaov,llava-hf/llava-onevision-qwen2-7b-ov-hf,llava-hf/llava-onevision-qwen2-7b-ov-hf,llava_ov,llava_ov,general,general,7B,False,"q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj"
+smolvlm,HuggingFaceTB/SmolVLM-Instruct,HuggingFaceTB/SmolVLM-Instruct,smolvlm,smolvlm,general_small,general_small,2.2B,False,"q_proj, k_proj, v_proj, o_proj"
+medgemma,google/medgemma-4b-it,google/medgemma-4b-it,gemma,gemma,medical,medical,4B,True,"q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj"
+huatuo,FreedomIntelligence/HuatuoGPT-Vision-7B-Qwen2.5VL,FreedomIntelligence/HuatuoGPT-Vision-7B-Qwen2.5VL,qwen_vl,qwen_vl,medical,medical,7B,False,"q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj"
